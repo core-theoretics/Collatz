@@ -1,4 +1,3 @@
-# Collatz
 # Collatz Operator Toolkit
 
 **A synthetic spectral operator for the Collatz (3x+1) conjecture**
