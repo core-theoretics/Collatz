@@ -37,5 +37,5 @@ CC0 1.0 Universal — free to use, modify, and extend.
 
 ## Repository
 Fig: 10.6084/m9.figshare.31743010
-Zenodo: 
+Zenodo: 10.5281/zenodo.19037545
 https://github.com/core-theoretics/Collatz
